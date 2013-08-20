@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Rebecca Sliter]]></title>
-  <link href="http://rsliter.github.io/atom.xml" rel="self"/>
-  <link href="http://rsliter.github.io/"/>
-  <updated>2013-08-19T21:53:31-05:00</updated>
-  <id>http://rsliter.github.io/</id>
+  <link href="http://rebeccasliter.com/atom.xml" rel="self"/>
+  <link href="http://rebeccasliter.com/"/>
+  <updated>2013-08-19T21:58:58-05:00</updated>
+  <id>http://rebeccasliter.com/</id>
   <author>
     <name><![CDATA[Rebecca Sliter]]></name>
     
@@ -15,19 +15,19 @@
   
   <entry>
     <title type="html"><![CDATA[Hola]]></title>
-    <link href="http://rsliter.github.io/blog/2013/08/18/hola/"/>
+    <link href="http://rebeccasliter.com/blog/2013/08/18/hola/"/>
     <updated>2013-08-18T14:38:00-05:00</updated>
-    <id>http://rsliter.github.io/blog/2013/08/18/hola</id>
+    <id>http://rebeccasliter.com/blog/2013/08/18/hola</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve been in Ecuador for about three weeks, in which time I&rsquo;ve
 helped plan our <a href="https://www.facebook.com/photo.php?fbid=637562259600702&amp;set=a.243430865680512.67637.117154494974817&amp;type=1&amp;theater">start-of-office</a> immersion program, delivered <a href="https://twitter.com/fmrtn/status/364099758173868032">a presentation</a> on software testing <em>en Español</em> and visited
 Mindo, a small town in the jungle about two hours outside of Quito.
-<img src="../images/DSC01331_edited.jpg" alt="leaves" /></p>
+<img src="http://rebeccasliter.com/images/DSC01331_edited.jpg" /></p>
 
 <p>The content of this brand-new blog will likely touch on the
 above-mentioned subjects (that is, a thrilling mix of hiking and software), but for now I&rsquo;ll leave y&#8217;all with a photo of the
 park near my apartment, where I attempted my first-ever high-altitude run
 this past weekend.
-<img src="../images/parque_carolina.png" alt="Park" /></p>
+<img src="http://rebeccasliter.com/images/parque_carolina.png" /></p>
 ]]></content>
   </entry>
   
