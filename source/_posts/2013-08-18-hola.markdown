@@ -6,7 +6,7 @@ comments: true
 ---
 
 I've been in Ecuador for about three weeks, in which time I've 
-helped plan our [start-of-office](https://www.facebook.com/photo.php?fbid=637562259600702&set=a.243430865680512.67637.117154494974817&type=1&theater) immersion program, delivered [a presentation](pic.twitter.com/NP2XcOhHbV) on software testing *en Español* and visited
+helped plan our [start-of-office](https://www.facebook.com/photo.php?fbid=637562259600702&set=a.243430865680512.67637.117154494974817&type=1&theater) immersion program, delivered [a presentation](https://twitter.com/fmrtn/status/364099758173868032) on software testing *en Español* and visited
 Mindo, a small town in the jungle about two hours outside of Quito.
 ![leaves](../images/DSC01331_edited.jpg)
 
