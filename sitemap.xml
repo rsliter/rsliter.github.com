@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://rsliter.github.io/blog/2013/08/18/hola/</loc>
+        <lastmod>2013-08-18T19:14:16-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://rsliter.github.io/blog/archives/</loc>
-        <lastmod>2013-08-18T14:31:42-05:00</lastmod>
+        <lastmod>2013-08-18T19:14:16-05:00</lastmod>
     </url>
     <url>
         <loc>http://rsliter.github.io/</loc>
-        <lastmod>2013-08-18T14:31:42-05:00</lastmod>
+        <lastmod>2013-08-18T19:14:16-05:00</lastmod>
     </url>
     <url>
         <loc>http://rsliter.github.io/robots.txt</loc>
-        <lastmod>2013-08-18T14:31:42-05:00</lastmod>
+        <lastmod>2013-08-18T14:42:43-05:00</lastmod>
     </url>
 </urlset>

@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Rebecca Sliter]]></title>
   <link href="http://rsliter.github.io/atom.xml" rel="self"/>
   <link href="http://rsliter.github.io/"/>
-  <updated>2013-08-18T14:35:33-05:00</updated>
+  <updated>2013-08-19T20:32:12-05:00</updated>
   <id>http://rsliter.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rebecca Sliter]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hola]]></title>
+    <link href="http://rsliter.github.io/blog/2013/08/18/hola/"/>
+    <updated>2013-08-18T14:38:00-05:00</updated>
+    <id>http://rsliter.github.io/blog/2013/08/18/hola</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been in Ecuador for about three weeks, in which time I&rsquo;ve managed
+to help plan our start-of-office immersion program, deliver a
+presentation on software testing in Spanish and visit
+Mindo, a small town in the jungle about two hours outside of Quito.
+<img src="../images/DSC01331_edited.jpg" alt="leaves" /></p>
+
+<p>While in Mindo, we rode a truck-engine powered gondola over the forest,
+arriving on the other side of the gorge for a hike through the forest.</p>
+
+<p>We also saw hummingbirds.
+<img src="../images/DSC01337_edited.jpg" alt="Hummingbirds" /></p>
+]]></content>
+  </entry>
   
 </feed>
