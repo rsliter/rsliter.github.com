@@ -46,7 +46,7 @@ article {
     @extend .flex-content;
     @extend .basic-alignment;
     max-width: 480px;
-    padding: 10px;
+    padding: 10px 35px;
   }
   video, .flash-video { margin: 0 auto 1.5em; }
   video { display: block; width: 100%; }
@@ -106,7 +106,7 @@ article + article {
     @extend .serif;
     @include transition(background-color .5s);
     &:hover {
-      background: $link-color-hover;
+      background: #DE3A21;
       text-shadow: none;
       color: $main-bg;
     }
