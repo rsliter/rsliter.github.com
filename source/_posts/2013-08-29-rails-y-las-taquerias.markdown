@@ -3,7 +3,7 @@ layout: post
 title: "Rails y Las Taquerías"
 date: 2013-09-02 19:50
 comments: true
-categories: "tacos"
+categories: "tacos", "rails", "talks", "pecha kucha"
 ---
 I take tacos relatively seriously. Seriously enough that I've organized multiple taco-themed parties in my lifetime.
 Let's be real, though: any food whose remnants are licked from your fingers requires a
@@ -14,7 +14,7 @@ resulting in a madcap 400-second talk on a topic of the presenter's choosing. I
 chose to explain the Rails MVC framework with a taquería analogy.
 
 This talk was originally given in Spanish, so I've provided a Spanish
-transcript as well as a rough English translation, below.
+transcript as well as a rough English translation below.
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/25738957"
 width="427" height="356" frameborder="0" marginwidth="0"
