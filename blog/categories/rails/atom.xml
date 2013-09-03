@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Rebecca Sliter]]></title>
-  <link href="http://rebeccasliter.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: rails | Rebecca Sliter]]></title>
+  <link href="http://rebeccasliter.com/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://rebeccasliter.com/"/>
   <updated>2013-09-02T21:04:50-05:00</updated>
   <id>http://rebeccasliter.com/</id>
@@ -50,7 +50,7 @@ controller.</p>
 <li> El model es el backend de la applicacíon. El model es el interface
   entre el database y tambíen trabajo con el data.</li>
 <li> El view es el frontend de nuestra applicacíon. Es typicalemente en
-  HTML o un otro lenguaje para &#8220;templating,&#8221; y tambíen tiene un poco de
+  HTML o un otro lenguaje para "templating," y tambíen tiene un poco de
  Ruby (usualemente los variables). Es la presentacíon de la
 applicacíon.</li>
 <li> Finalmente, tenemos la controller. La controller es el pegamento entre
@@ -119,24 +119,6 @@ preparation, or even how many more tomatoes are in stock: in fact, all
 the customer typically cares about is how the tacos look and taste. This
 is similar to Rails views, which hold very little Ruby and serve as the
 presentation layer.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hola]]></title>
-    <link href="http://rebeccasliter.com/blog/2013/08/18/hola/"/>
-    <updated>2013-08-18T14:38:00-05:00</updated>
-    <id>http://rebeccasliter.com/blog/2013/08/18/hola</id>
-    <content type="html"><![CDATA[<p>I&rsquo;ve been in Ecuador for about three weeks, in which time I&rsquo;ve
-helped plan our <a href="https://www.facebook.com/photo.php?fbid=637562259600702&amp;set=a.243430865680512.67637.117154494974817&amp;type=1&amp;theater">start-of-office</a> immersion program, delivered <a href="https://twitter.com/fmrtn/status/364099758173868032">a presentation</a> on software testing <em>en Español</em> and visited
-Mindo, a small town in the jungle about two hours outside of Quito.
-<img src="http://rebeccasliter.com/images/DSC01331_edited.jpg" /></p>
-
-<p>The content of this brand-new blog will likely touch on the
-above-mentioned subjects (that is, a thrilling mix of hiking and software), but for now I&rsquo;ll leave y&#8217;all with a photo of the
-park near my apartment, where I attempted my first-ever high-altitude run
-this past weekend.
-<img src="http://rebeccasliter.com/images/parque_carolina.png" /></p>
 ]]></content>
   </entry>
   
