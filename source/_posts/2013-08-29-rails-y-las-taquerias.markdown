@@ -6,7 +6,7 @@ comments: true
 categories: "tacos"
 ---
 I take tacos relatively seriously. Seriously enough that I've organized multiple taco-themed parties in my lifetime.
-Let's be real, though: any food requiring its remnants to be licked from your fingers requires a
+Let's be real, though: any food whose remnants are licked from your fingers requires a
 sense of humor.
 
 As part of our immersion here in Quito we're doing [pecha kucha talks](www.pechakucha.org), which consist of 20 slides, presented for 20 seconds each,
