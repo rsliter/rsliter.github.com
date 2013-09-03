@@ -3,7 +3,7 @@ layout: post
 title: "Rails y Las Taquerías"
 date: 2013-09-02 19:50
 comments: true
-categories: "tacos", "rails", "talks", "pecha kucha"
+categories: [tacos, rails, talks, pecha kucha]
 ---
 I take tacos relatively seriously. Seriously enough that I've organized multiple taco-themed parties in my lifetime.
 Let's be real, though: any food whose remnants are licked from your fingers requires a
