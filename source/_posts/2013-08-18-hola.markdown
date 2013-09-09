@@ -3,6 +3,7 @@ layout: post
 title: "Hola"
 date: 2013-08-18 14:38
 comments: true
+categories: ['ecuador', 'tech', 'travel']
 ---
 
 I've been in Ecuador for about three weeks, in which time I've 
