@@ -19,7 +19,7 @@ less than three times to climb the Pichincha volcano outside of Quito.
 
 <img src="{{ root_url }}/images/pinchincha_path.jpg" />
 
-Why three tries? Here’s what I know about the altitude here (courtesy of
+Why three tries? This is what I know about the altitude here (courtesy of
 Wikipedia, naturally):
 <ul>
 <li>Our base camp, Quito, is located at 9,350 feet above sea level.</li>
