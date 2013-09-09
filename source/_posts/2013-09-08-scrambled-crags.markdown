@@ -11,7 +11,7 @@ I remember one the outdoor companies in my college town had a slogan,
 “Get High in the Mountains,” ostensibly owing to both the local altitude
 (a [contentious](http://en.wikipedia.org/wiki/Boone,_North_Carolina#Geography_and_climate) 3,333 feet) and bohemian vibe. The double entendre makes
 even more sense to me now that I’ve experienced the Andes, as you’ve got to
-be in an altered frame of mind to consider the Appalachians are high in
+be in an altered frame of mind to consider the Appalachians high in
 the mountains\*. I have to tell y’all: over the last month I tried no
 less than three times to climb the Pichincha volcano outside of Quito.
 
