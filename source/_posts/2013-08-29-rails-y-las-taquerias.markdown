@@ -18,7 +18,7 @@ transcript as well as a rough English translation below.
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/25738957"
 width="427" height="356" frameborder="0" marginwidth="0"
-marginheight="0" scrolling="no" style="padding: 0 60px;border:none;margin-bottom:5px" allowfullscreen
+marginheight="0" scrolling="no" class="slideshare" allowfullscreen
 webkitallowfullscreen mozallowfullscreen> </iframe> 
 
 <!-- more -->
