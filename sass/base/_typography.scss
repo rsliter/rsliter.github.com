@@ -96,7 +96,9 @@ q { font-style: italic;
 
 em, dfn { font-style: italic; }
 
-strong, dfn { font-weight: bold; }
+strong, dfn { font-weight: bold;
+  font-size: 1.6em;
+}
 
 del, s { text-decoration: line-through; }
 
