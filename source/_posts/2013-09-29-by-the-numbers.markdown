@@ -21,4 +21,4 @@ dancing class.
 <!-- more -->
 
 <img src="{{ root_url }}/images/pennants.jpg" />
-We've taken advantage of minor illness and [general busy-ness]({{ root_url}}/blog/2013/09/27/programacion-funcional-con-scala/) to stick close to our home base and explore Quito.
+We've taken advantage of minor illness and [general busy-ness]({{ root_url}}/blog/2013/09/27/programacion-funcional-con-scala/) to stick close to our home base and explore Quito. Hopefully soon we'll venture a little further outside the city but it's been a treat to explore all the churches, outdoor activities, and pastries Quito has to offer.
