@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: churches | Rebecca Sliter]]></title>
+  <link href="http://rebeccasliter.com/blog/categories/churches/atom.xml" rel="self"/>
+  <link href="http://rebeccasliter.com/"/>
+  <updated>2013-09-29T20:23:12-05:00</updated>
+  <id>http://rebeccasliter.com/</id>
+  <author>
+    <name><![CDATA[Rebecca Sliter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[By the Numbers]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/09/29/by-the-numbers/"/>
+    <updated>2013-09-29T18:34:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/09/29/by-the-numbers</id>
+    <content type="html"><![CDATA[<p><img src="/images/flowers.jpg" />
+<strong>1</strong> Morning spent cycling on the runway of Quito&rsquo;s old airport.</p>
+
+<p><strong>1</strong> Church (Catholic), ascended by foot all the way to the bell tower.</p>
+
+<p><strong>2</strong> Cold springs swum in.</p>
+
+<p><strong>4</strong> Ominous stomach rumblings (between the two of us), signaling
+that our choice of restaurant was perhaps not the most sound.</p>
+
+<p><strong>Infinite</strong> Discussions about finally signing up for a salsa
+dancing class.</p>
+
+<!-- more -->
+
+
+<p><img src="/images/pennants.jpg" />
+We&rsquo;ve taken advantage of minor illness and <a href="/blog/2013/09/27/programacion-funcional-con-scala/">general busy-ness</a> to stick close to our home base and explore Quito.</p>
+]]></content>
+  </entry>
+  
+</feed>
