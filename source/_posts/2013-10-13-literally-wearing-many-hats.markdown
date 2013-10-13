@@ -29,11 +29,11 @@ complicated pastas and [tacos]({{root_url}}/blog/2013/09/29/by-the-numbers).
 
 <img src="{{ root_url }}/images/lilies_at_home.jpg" />
 
-The best part of cooking from home is a weekly trip to Iñaquitos, a nearby market. Before going, we'll decide what we want to eat for the week and draw up a list: exactly the sort of ritual I was starving for during those blink-and-you'll-miss-it Chicago weekends.
+The best part of cooking at home is a weekly trip to Iñaquitos, a nearby market. Before going, we'll decide what we want to eat for the week and draw up a list: exactly the sort of ritual I was starving for during those blink-and-you'll-miss-it Chicago weekends.
 
 Navigating Iñaquitos is another story entirely. The price of ingredients,
 for example, has dropped significantly as I learn to correctly
-Spanish outside of our office. Time in the market has also decreased as we've
+speak Spanish outside of our office. Time in the market has also decreased as we've
 realized which vendors consistently stock the freshest produce. The
 reward? Weekly flowers on our way out of the market, another thing I'm
 enjoying being in one place long enough to enjoy.
