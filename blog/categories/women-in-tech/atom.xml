@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: women in tech | Rebecca Sliter]]></title>
+  <link href="http://rebeccasliter.com/blog/categories/women-in-tech/atom.xml" rel="self"/>
+  <link href="http://rebeccasliter.com/"/>
+  <updated>2013-10-16T21:28:52-05:00</updated>
+  <id>http://rebeccasliter.com/</id>
+  <author>
+    <name><![CDATA[Rebecca Sliter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Creating a Community for Technical Women in Quito]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/10/16/creating-a-community-for-technical-women-in-quito/"/>
+    <updated>2013-10-16T21:13:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/10/16/creating-a-community-for-technical-women-in-quito</id>
+    <content type="html"><![CDATA[<p>Ada Lovelace Day, a celebration of the world&rsquo;s first computer
+programmer, was yesterday. In honor of the holiday and to highlight
+the awesome work that ThoughtWorks Ecuador is doing to promote women in
+tech, I wrote the following blog post on ThoughtWorks' website.</p>
+
+<p>English version: <a href="http://www.thoughtworks.com/insights/blog/creating-community-technical-women-quito">Creating a Community for Technical Women in Quito</a></p>
+
+<p>Spanish version: <a href="http://www.thoughtworks.com/insights/blog/creacion-de-una-comunidad-de-mujeres-tecnicas-en-quito">Creación de una comunidad de mujeres técnicas en Quito</a></p>
+]]></content>
+  </entry>
+  
+</feed>
