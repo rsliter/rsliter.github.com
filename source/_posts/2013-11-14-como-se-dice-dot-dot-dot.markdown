@@ -17,11 +17,11 @@ It's said that dreaming in a language indicates fluency. Though I
 haven't yet dreamt in Spanish, I'm getting closer by forcing
 translations of my thoughts.
 
+Do I have a song in my head? Can I fumble through its translation, however rudimentary? Probably. When cooking, I translate the recipe in my while prepping the food. This gives me plenty of time to mull over potential translations.
+
 <img src="{{ root_url }}/images/rose_gram" />
 
 <!--more-->
-
-Do I have a song in my head? Can I fumble through its translation, however rudimentary? Probably. When cooking, I translate the recipe in my while prepping the food. This gives me plenty of time to mull over potential translations.
 
 <strong>Google translate is your BFF</strong>
 All those nerdy songs I was translating in my head? That time I didn't
