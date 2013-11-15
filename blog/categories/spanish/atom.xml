@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: spanish | Rebecca Sliter]]></title>
+  <link href="http://rebeccasliter.com/blog/categories/spanish/atom.xml" rel="self"/>
+  <link href="http://rebeccasliter.com/"/>
+  <updated>2013-11-14T19:04:07-05:00</updated>
+  <id>http://rebeccasliter.com/</id>
+  <author>
+    <name><![CDATA[Rebecca Sliter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cómo se dice...]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/11/14/como-se-dice-dot-dot-dot/"/>
+    <updated>2013-11-14T13:43:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/11/14/como-se-dice-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>When I moved to Ecuador a few months ago I needed to learn Spanish quickly. Being surrounded by the language has been a great help; however, there are ways to fake
+the immersion experience. I&rsquo;ve shared some of the tricks I used to learn
+Spanish within my first month here.</p>
+
+<p><strong>Start here: Duolingo</strong>
+To improve quickly I needed to practice speaking with others, a terrifying prospect. I can&rsquo;t recommend <a href="http://www.duolingo.com/">Duolingo</a> highly enough, despite criticisms of its nonsensical phrases seemingly lacking real-world application*. The app&rsquo;s combination of drilling and silliness helped me overcome my fear of speaking Spanish with others.</p>
+
+<p><strong>Think about it</strong>
+It&rsquo;s said that dreaming in a language indicates fluency. Though I
+haven&rsquo;t yet dreamt in Spanish, I&rsquo;m getting closer by forcing
+translations of my thoughts.</p>
+
+<p><img src="/images/rose_gram" /></p>
+
+<!--more-->
+
+
+<p>Do I have a song in my head? Can I fumble through its translation, however rudimentary? Probably. When cooking, I translate the recipe in my while prepping the food. This gives me plenty of time to mull over potential translations.</p>
+
+<p><strong>Google translate is your BFF</strong>
+All those nerdy songs I was translating in my head? That time I didn&rsquo;t
+know how to say <em>eggplant</em> in Spanish? I looked it up on Google
+translate. Syntax-wise it&rsquo;s not perfect but I generally trust it for
+single-word translations.</p>
+
+<p><strong><em>El hombre-araña sube la rascacielo</em></strong>
+Once I&rsquo;d learn a word I&rsquo;d force myself to use it in a sentence. Once again, the
+sillier, the better: outlandish sayings stay in my head precisely because
+they&rsquo;re different.</p>
+
+<p><strong>Make it fun</strong>
+I built a <a href="http://conjuegen-verbos.herokuapp.com/app/index.html#/verbos">quick Angular app</a> one day to quiz myself on translations. It didn&rsquo;t take much time to build and was fun to play with, and show off around the office, for an
+afternoon. The more I incorporated Spanish into everyday activities the faster I reinforced vocabulary.</p>
+
+<p><strong>Write it down!</strong>
+I&rsquo;ve had plenty of opportunities to write emails in Spanish for work (with gratuitous
+use of Google translate, of course). I&rsquo;d recommend just taking the time to write
+something down in the language you&rsquo;re learning. It&rsquo;s another way to
+practice using whole sentences and phrases with a real audience&mdash;
+without the pressure of actually having to speak with that audience.</p>
+
+<p><img src="/images/church_gram" /></p>
+
+<p>As is the case with learning anything there&rsquo;s no substitute for practice. However, the tricks
+I&rsquo;ve mentioned helped to make studying much more fun&mdash; and therefore,
+easier.</p>
+
+<br/>
+
+
+<br/>
+
+
+<p>*My personal favorite: <em>soy un penguino</em>.</p>
+]]></content>
+  </entry>
+  
+</feed>
