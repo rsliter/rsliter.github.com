@@ -53,4 +53,4 @@ easier.
 
 <br/>
 <br/>
-\*My personal favorite: *soy un penguino*.
+\*My personal favorite: *soy un pengüino*.
