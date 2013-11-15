@@ -47,9 +47,8 @@ without the pressure of actually having to speak with that audience.
 
 <img src="{{ root_url }}/images/church_gram" />
 
-As is the case with learning anything there's no substitute for practice. However, the tricks
-I've mentioned helped to make studying much more fun-- and therefore,
-easier.
+As is the case with learning anything there's no substitute for practice. The tricks
+I've used have helped make studying fun-- and therefore, much easier.
 
 <br/>
 <br/>
