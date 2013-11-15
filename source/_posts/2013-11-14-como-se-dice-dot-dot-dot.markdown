@@ -29,7 +29,7 @@ know how to say *eggplant* in Spanish? I looked it up on Google
 translate. Syntax-wise it's not perfect but I generally trust it for
 single-word translations.
 
-<strong>*El hombre-araña sube la rascacielo*</strong>
+<strong>*El hombre-araña sube el rascacielo*</strong>
 Once I'd learn a word I'd force myself to use it in a sentence. Once again, the
 sillier, the better: I remember outlandish sayings precisely because
 they're different.
