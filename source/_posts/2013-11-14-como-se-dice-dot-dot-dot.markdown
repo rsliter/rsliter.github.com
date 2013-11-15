@@ -17,7 +17,7 @@ It's said that dreaming in a language indicates fluency. Though I
 haven't yet dreamt in Spanish, I'm getting closer by forcing
 translations of my thoughts.
 
-Do I have a song in my head? Can I fumble through its translation, however rudimentary? Probably. When cooking, I translate the recipe in my while prepping the food. This gives me plenty of time to mull over potential translations.
+Do I have a song in my head? Can I fumble through its translation, however rudimentary? Probably. When I cook, I translate the recipe in my head while prepping the food. This gives me plenty of time to mull over potential translations.
 
 <img src="{{ root_url }}/images/rose_gram" />
 
@@ -31,7 +31,7 @@ single-word translations.
 
 <strong>*El hombre-araña sube la rascacielo*</strong>
 Once I'd learn a word I'd force myself to use it in a sentence. Once again, the
-sillier, the better: outlandish sayings stay in my head precisely because
+sillier, the better: I remember outlandish sayings precisely because
 they're different.
 
 <strong>Make it fun</strong>
