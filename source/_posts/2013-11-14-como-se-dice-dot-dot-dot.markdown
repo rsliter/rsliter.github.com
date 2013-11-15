@@ -52,4 +52,4 @@ I've used have helped make studying fun-- and therefore, much easier.
 
 <br/>
 <br/>
-\*My personal favorite: *soy un pengüino*.
+\*My personal favorite: *soy un pingüino*.
