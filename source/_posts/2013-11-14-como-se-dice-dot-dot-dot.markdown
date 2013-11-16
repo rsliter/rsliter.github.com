@@ -48,7 +48,7 @@ without the pressure of actually having to speak with that audience.
 <img src="{{ root_url }}/images/church_gram" />
 
 As is the case with learning anything there's no substitute for practice. The tricks
-I've used have helped make studying fun-- and therefore, much easier.
+I've used have helped make practice fun-- and therefore, much easier.
 
 <br/>
 <br/>
