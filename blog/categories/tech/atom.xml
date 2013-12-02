@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tech | Rebecca Sliter]]></title>
+  <link href="http://rebeccasliter.com/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://rebeccasliter.com/"/>
+  <updated>2013-11-16T17:47:20-05:00</updated>
+  <id>http://rebeccasliter.com/</id>
+  <author>
+    <name><![CDATA[Rebecca Sliter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Creating a Community for Technical Women in Quito]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/10/16/creating-a-community-for-technical-women-in-quito/"/>
+    <updated>2013-10-16T21:13:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/10/16/creating-a-community-for-technical-women-in-quito</id>
+    <content type="html"><![CDATA[<p>Ada Lovelace Day, a celebration of the world&rsquo;s first computer
+programmer, was yesterday. In honor of the holiday and to highlight
+the awesome work that ThoughtWorks Ecuador is doing to promote women in
+tech, I wrote the following blog post on ThoughtWorks' website.</p>
+
+<p>English version: <a href="http://www.thoughtworks.com/insights/blog/creating-community-technical-women-quito">Creating a Community for Technical Women in Quito</a></p>
+
+<p>Spanish version: <a href="http://www.thoughtworks.com/insights/blog/creacion-de-una-comunidad-de-mujeres-tecnicas-en-quito">Creación de una comunidad de mujeres técnicas en Quito</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Programación Funcional con Scala]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/09/27/programacion-funcional-con-scala/"/>
+    <updated>2013-09-27T11:14:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/09/27/programacion-funcional-con-scala</id>
+    <content type="html"><![CDATA[<p>I gave a talk at <a href="http://www.meetup.com/Quito-Lambda-Meetup/?scroll=true">Quito Lambda</a>
+earlier this week about Scala, what makes it functional, and what makes
+it not so functional.</p>
+
+<p><iframe
+src="http://www.slideshare.net/slideshow/embed_code/26623045"
+width="427" height="356" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no" class="slideshare" allowfullscreen>
+</iframe> <div style="margin-bottom:5px"> <strong> <a
+href="https://www.slideshare.net/rebeccasliter/pf-con-scala"
+title="Pf con scala" target="_blank">Pf con scala</a> </strong> from
+<strong><a href="http://www.slideshare.net/rebeccasliter"
+target="_blank">rebeccasliter</a></strong> </div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails y Las Taquerías]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/09/02/rails-y-las-taquerias/"/>
+    <updated>2013-09-02T19:50:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/09/02/rails-y-las-taquerias</id>
+    <content type="html"><![CDATA[<p>I take tacos relatively seriously. Seriously enough that I&rsquo;ve organized multiple taco-themed parties in my lifetime.
+Let&rsquo;s be real, though: any food whose remnants are licked from your fingers requires a
+sense of humor.</p>
+
+<p>As part of our immersion here in Quito we&rsquo;re doing <a href="www.pechakucha.org">pecha kucha talks</a>, which consist of 20 slides, presented for 20 seconds each,
+resulting in a madcap 400-second talk on a topic of the presenter&rsquo;s choosing. I
+chose to explain the Rails MVC framework with a taquería analogy.</p>
+
+<p>This talk was originally given in Spanish, so I&rsquo;ve provided a Spanish
+transcript as well as a rough English translation below.</p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/25738957"
+width="427" height="356" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no" class="slideshare" allowfullscreen
+webkitallowfullscreen mozallowfullscreen> </iframe>
+
+
+<p></p>
+
+<!-- more -->
+
+
+<h2>En Español</h2>
+
+
+<p>Rails es una framework que tiene tres partes: el model, el view, y la
+controller.</p>
+
+<ul>
+<li> El model es el backend de la applicacíon. El model es el interface
+  entre el database y tambíen trabajo con el data.</li>
+<li> El view es el frontend de nuestra applicacíon. Es typicalemente en
+  HTML o un otro lenguaje para "templating," y tambíen tiene un poco de
+ Ruby (usualemente los variables). Es la presentacíon de la
+applicacíon.</li>
+<li> Finalmente, tenemos la controller. La controller es el pegamento entre
+  el model y el view: el pasa el data desde el backend al frontend. Es
+importante saber que Rails tiene una regla para los partes de la
+applicacíon: model gordo, controller flaca.</li>
+</ul>
+
+
+<p>Empezamos en la bodega. La bodega tiene todos los ingredientes para
+nuestra taquería: los frijoles, el carne&hellip; Algun que trabajo en la
+taquería necesita algo para prepara una comida. Toma lo que quiere y
+deja la bodega. Pues, el puede preparar los ingredientes: el hace las
+salsas y prepara la carne. Todo de este es el trabajo del <strong>model</strong>.
+Recuerden, en Rails tenemos un model gordo. Es necesario hacer todo el
+trabajo con los ingredientes en el model.</p>
+
+<p>Pues&hellip; una persona recibe la comida. La comida es preparado y listo
+para servir. Esta persona no se importa como la comida fue preparar.
+Esta persona solo quiere que la comida es disponsible y lista para sus
+clientes. Tiene el trabajo para servir la persona que va a comer los
+tacos. Este trabajo es como un <strong>controller</strong> en Rails. Recuerden que
+Rails tiene una controller flaca: su trabajo es solamente dar el data al
+view.</p>
+
+<p>Y que buena es el view&mdash; mis tacos! Cuando estoy en un taquería, no me
+importa sobre la preparacíon de los tacos. No me importa sobre la
+receta. Si quiero cocinar los tacos, yo puedo cocinarlos en mi casa! No
+es la objetiva para comer en un restaurante. Solo que me importa es la
+comida, y si mi comida es buena. Es porque la experiencia del cliente es
+como el <strong>view</strong>. El cliente no se se importa del trabajo para cocinar los
+tacos, solamente si los tacos son buenos.</p>
+
+<p>Si añadas la preparacíon, la servir, y el producto final, tienes algo
+muy bueno&hellip; y un poco como el Rails MVC framework.</p>
+
+<h2>In English</h2>
+
+
+<p>The Ruby on Rails framework has three principal parts: the model, the
+view, and the controller. The model takes care of most of the work,
+interfacing with the database and modifying a lot of the data. The view,
+on the other hand, is the presentation layer: it only has a bit of Ruby
+(typically variables) but a lot of ERB to handle the way the app looks.
+The controller is the glue between the two: passing data from the
+database (from the model) to the page (the view).</p>
+
+<p>Let&rsquo;s start at the pantry of the restaurant. All of the food is
+contained there, and when a prep chef needs something, he or she goes
+into the pantry, takes what they need, and returns to the kitchen to
+prepare the food. The chef has the responsibility of chopping the meats,
+mixing the salsas.. this is analogous to the <strong>model</strong> in Rails. Rails has
+a convention for &ldquo;fat model, skinny controller,&rdquo; wherein much of the
+work should be done in the model before getting to the controller.</p>
+
+<p>By the time the food reaches the server, it has been plated. The salsas
+are lined up next to the tacos. The food is ready to go. All the server
+cares about is getting the food to the customer in a timely manner,
+without complaints. This is similar to the <strong>controller</strong> in Rails:
+passing data from the backend out to the front, without doing much work
+(remember, &ldquo;fat model, skinny controller&rdquo;).</p>
+
+<p>And, finally, the food makes its way to the customer. Much like the
+server, the customer has very little curiosity regarding the recipe, the
+preparation, or even how many more tomatoes are in stock: in fact, all
+the customer typically cares about is how the tacos look and taste. This
+is similar to Rails views, which hold very little Ruby and serve as the
+presentation layer.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hola]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/08/18/hola/"/>
+    <updated>2013-08-18T14:38:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/08/18/hola</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been in Ecuador for about three weeks, in which time I&rsquo;ve
+helped plan our <a href="https://www.facebook.com/photo.php?fbid=637562259600702&amp;set=a.243430865680512.67637.117154494974817&amp;type=1&amp;theater">start-of-office</a> immersion program, delivered <a href="https://twitter.com/fmrtn/status/364099758173868032">a presentation</a> on software testing <em>en Español</em> and visited
+Mindo, a small town in the jungle about two hours outside of Quito.
+<img src="/images/DSC01331_edited.jpg" /></p>
+
+<p>The content of this brand-new blog will likely touch on the
+above-mentioned subjects (that is, a thrilling mix of hiking and software), but for now I&rsquo;ll leave y'all with a photo of the
+park near my apartment, where I attempted my first-ever high-altitude run
+this past weekend.
+<img src="/images/parque_carolina.png" /></p>
+]]></content>
+  </entry>
+  
+</feed>

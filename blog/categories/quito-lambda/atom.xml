@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: quito lambda | Rebecca Sliter]]></title>
+  <link href="http://rebeccasliter.com/blog/categories/quito-lambda/atom.xml" rel="self"/>
+  <link href="http://rebeccasliter.com/"/>
+  <updated>2013-11-16T17:47:20-05:00</updated>
+  <id>http://rebeccasliter.com/</id>
+  <author>
+    <name><![CDATA[Rebecca Sliter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Programación Funcional con Scala]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/09/27/programacion-funcional-con-scala/"/>
+    <updated>2013-09-27T11:14:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/09/27/programacion-funcional-con-scala</id>
+    <content type="html"><![CDATA[<p>I gave a talk at <a href="http://www.meetup.com/Quito-Lambda-Meetup/?scroll=true">Quito Lambda</a>
+earlier this week about Scala, what makes it functional, and what makes
+it not so functional.</p>
+
+<p><iframe
+src="http://www.slideshare.net/slideshow/embed_code/26623045"
+width="427" height="356" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no" class="slideshare" allowfullscreen>
+</iframe> <div style="margin-bottom:5px"> <strong> <a
+href="https://www.slideshare.net/rebeccasliter/pf-con-scala"
+title="Pf con scala" target="_blank">Pf con scala</a> </strong> from
+<strong><a href="http://www.slideshare.net/rebeccasliter"
+target="_blank">rebeccasliter</a></strong> </div></p>
+]]></content>
+  </entry>
+  
+</feed>

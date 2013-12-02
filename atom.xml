@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Rebecca Sliter]]></title>
+  <link href="http://rebeccasliter.com/atom.xml" rel="self"/>
+  <link href="http://rebeccasliter.com/"/>
+  <updated>2013-11-16T17:47:20-05:00</updated>
+  <id>http://rebeccasliter.com/</id>
+  <author>
+    <name><![CDATA[Rebecca Sliter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cómo se dice...]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/11/14/como-se-dice-dot-dot-dot/"/>
+    <updated>2013-11-14T13:43:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/11/14/como-se-dice-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>When I moved to Ecuador a few months ago I needed to learn Spanish quickly. Being surrounded by the language has been a great help; however, there are ways to fake
+the immersion experience. I&rsquo;ve shared some of the tricks I used to learn
+Spanish within my first month here.</p>
+
+<p><strong>Start here: Duolingo</strong>
+To improve quickly I needed to practice speaking with others, a terrifying prospect. I can&rsquo;t recommend <a href="http://www.duolingo.com/">Duolingo</a> highly enough, despite criticisms of its nonsensical phrases seemingly lacking real-world application*. The app&rsquo;s combination of drilling and silliness helped me overcome my fear of speaking Spanish with others.</p>
+
+<p><strong>Think about it</strong>
+It&rsquo;s said that dreaming in a language indicates fluency. Though I
+haven&rsquo;t yet dreamt in Spanish, I&rsquo;m getting closer by forcing
+translations of my thoughts.</p>
+
+<p>Do I have a song in my head? Can I fumble through its translation, however rudimentary? Probably. When I cook, I translate the recipe in my head while prepping the food. This gives me plenty of time to mull over potential translations.</p>
+
+<p><img src="http://rebeccasliter.com/images/rose_gram" /></p>
+
+<!--more-->
+
+
+<p><strong>Google translate is your BFF</strong>
+All those nerdy songs I was translating in my head? That time I didn&rsquo;t
+know how to say <em>eggplant</em> in Spanish? I looked it up on Google
+translate. Syntax-wise it&rsquo;s not perfect but I generally trust it for
+single-word translations.</p>
+
+<p><strong><em>El hombre-araña sube el rascacielos</em></strong>
+Once I&rsquo;d learn a word I&rsquo;d force myself to use it in a sentence. Once again, the
+sillier, the better: I remember outlandish sayings precisely because
+they&rsquo;re different.</p>
+
+<p><strong>Make it fun</strong>
+I built a <a href="http://conjuegen-verbos.herokuapp.com/app/index.html#/verbos">quick Angular app</a> one day to quiz myself on translations. It didn&rsquo;t take much time to build and was fun to play with, and show off around the office, for an
+afternoon. The more I incorporated Spanish into everyday activities the faster I reinforced vocabulary.</p>
+
+<p><strong>Write it down!</strong>
+I&rsquo;ve had plenty of opportunities to write emails in Spanish for work (with gratuitous
+use of Google translate, of course). I&rsquo;d recommend just taking the time to write
+something down in the language you&rsquo;re learning. It&rsquo;s another way to
+practice using whole sentences and phrases with a real audience&mdash;
+without the pressure of actually having to speak with that audience.</p>
+
+<p><img src="http://rebeccasliter.com/images/church_gram" /></p>
+
+<p>As is the case with learning anything there&rsquo;s no substitute for practice. The tricks
+I&rsquo;ve used have helped make practice fun&mdash; and therefore, much easier.</p>
+
+<br/>
+
+
+<br/>
+
+
+<p>*My personal favorite: <em>soy un pingüino</em>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Creating a Community for Technical Women in Quito]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/10/16/creating-a-community-for-technical-women-in-quito/"/>
+    <updated>2013-10-16T21:13:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/10/16/creating-a-community-for-technical-women-in-quito</id>
+    <content type="html"><![CDATA[<p>Ada Lovelace Day, a celebration of the world&rsquo;s first computer
+programmer, was yesterday. In honor of the holiday and to highlight
+the awesome work that ThoughtWorks Ecuador is doing to promote women in
+tech, I wrote the following blog post on ThoughtWorks&#8217; website.</p>
+
+<p>English version: <a href="http://www.thoughtworks.com/insights/blog/creating-community-technical-women-quito">Creating a Community for Technical Women in Quito</a></p>
+
+<p>Spanish version: <a href="http://www.thoughtworks.com/insights/blog/creacion-de-una-comunidad-de-mujeres-tecnicas-en-quito">Creación de una comunidad de mujeres técnicas en Quito</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Literally, Wearing Many Hats]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/10/13/literally-wearing-many-hats/"/>
+    <updated>2013-10-13T15:19:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/10/13/literally-wearing-many-hats</id>
+    <content type="html"><![CDATA[<p>A few weeks ago we took a mountain-biking trip south of Quito, around
+<a href="http://instagram.com/p/fGS_gSBEra/">Cotopaxí volcano</a>, ending up near a crater lake named Laguna Quilotoa. At times the temperature necessitated that I layer alpaca-wool hats in order to
+not DIE OF FROSTBITE.</p>
+
+<p><img src="http://rebeccasliter.com/images/quilotoa_hats.jpg" /></p>
+
+<p>Speaking of acclimation, or lack thereof, a funny thing&rsquo;s been happening
+lately. In the States, travel during the workweek rendered
+home-cooking impractical: it didn&rsquo;t feel right to do a huge grocery
+order on a Friday evening knowing: A) that I&rsquo;d be flying Sunday afternoon, and B)
+there was a Thai restaurant on the first floor of my apartment. Naturally, I elected to eat my way through the neighborhood&rsquo;s Yelp rankings, occasionally seeking out <a href="http://www.chicagoreader.com/chicago/hipster-history-of-gentrification-bohemians-logan-square/Content?oid=11117198">further-flung restaurants</a>.</p>
+
+<!-- more -->
+
+
+<p>So, we&rsquo;re living here, in the same place, and in the same apartment: a
+novelty for the two of us. We&rsquo;re taking advantage of this and
+cooking pretty frequently. The funny thing about this? Turns out that we cook
+exactly what we ordered at restaurants: pad thai and Spanish ham plates,
+complicated pastas and <a href="http://rebeccasliter.com/blog/2013/09/29/by-the-numbers">tacos</a>.</p>
+
+<p><img src="http://rebeccasliter.com/images/lilies_at_home.jpg" /></p>
+
+<p>The best part of cooking at home is a weekly trip to Iñaquitos, a nearby market. Before going, we&rsquo;ll decide what we want to eat for the week and draw up a list: exactly the sort of ritual I was starving for during those blink-and-you&rsquo;ll-miss-it Chicago weekends.</p>
+
+<p>Navigating Iñaquitos is another story entirely. The price of ingredients,
+for example, has dropped significantly as I learn to correctly
+speak Spanish outside of our office. Time in the market has also decreased as we&rsquo;ve
+realized which vendors consistently stock the freshest produce. The
+reward? Weekly flowers on our way out of the market, another thing I&rsquo;m
+enjoying being in one place long enough to enjoy.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[By the Numbers]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/09/29/by-the-numbers/"/>
+    <updated>2013-09-29T18:34:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/09/29/by-the-numbers</id>
+    <content type="html"><![CDATA[<p><img src="http://rebeccasliter.com/images/flowers.jpg" />
+<strong>1</strong> Morning spent cycling on the runway of Quito&rsquo;s old airport.</p>
+
+<p><strong>1</strong> Church (Catholic), ascended by foot all the way to the bell tower.</p>
+
+<p><strong>2</strong> Cold springs swum in.</p>
+
+<p><strong>4</strong> Ominous stomach rumblings (between the two of us), signaling
+that our choice of restaurant was perhaps not the most sound.</p>
+
+<p><strong>Infinite</strong> Discussions about finally signing up for a salsa
+dancing class.</p>
+
+<!-- more -->
+
+
+<p><img src="http://rebeccasliter.com/images/pennants.jpg" />
+We&rsquo;ve taken advantage of minor illness and <a href="http://rebeccasliter.com/blog/2013/09/27/programacion-funcional-con-scala/">general busy-ness</a> to stick close to our home base and explore Quito. Hopefully soon we&rsquo;ll venture a little further outside the city but it&rsquo;s been a treat to explore all the churches, outdoor activities, and pastries Quito has to offer.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Programación Funcional con Scala]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/09/27/programacion-funcional-con-scala/"/>
+    <updated>2013-09-27T11:14:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/09/27/programacion-funcional-con-scala</id>
+    <content type="html"><![CDATA[<p>I gave a talk at <a href="http://www.meetup.com/Quito-Lambda-Meetup/?scroll=true">Quito Lambda</a>
+earlier this week about Scala, what makes it functional, and what makes
+it not so functional.</p>
+
+<p><iframe
+src="http://www.slideshare.net/slideshow/embed_code/26623045"
+width="427" height="356" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no" class="slideshare" allowfullscreen>
+</iframe> <div style="margin-bottom:5px"> <strong> <a
+href="https://www.slideshare.net/rebeccasliter/pf-con-scala"
+title="Pf con scala" target="_blank">Pf con scala</a> </strong> from
+<strong><a href="http://www.slideshare.net/rebeccasliter"
+target="_blank">rebeccasliter</a></strong> </div></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Scrambled Crags]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/09/08/scrambled-crags/"/>
+    <updated>2013-09-08T20:55:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/09/08/scrambled-crags</id>
+    <content type="html"><![CDATA[<p><img src="http://rebeccasliter.com/images/pinchincha_welcome.jpg" /></p>
+
+<p>I remember one the outdoor companies in my college town had a slogan,
+“Get High in the Mountains,” ostensibly owing to both the altitude
+(a <a href="http://en.wikipedia.org/wiki/Boone,_North_Carolina#Geography_and_climate">contentious</a> 3,333 feet) and bohemian vibe. The double entendre makes
+even more sense to me now that I’ve experienced the Andes, as you’ve got to
+be in an altered frame of mind to consider the Appalachians high in
+the mountains*. I have to tell y’all: because of the altitude, over the last month I tried no
+less than three times to climb the Pichincha volcano outside of Quito.</p>
+
+<!-- more -->
+
+
+<p><img src="http://rebeccasliter.com/images/pinchincha_path.jpg" /></p>
+
+<p>Why three tries? This is what I know about the altitude here (courtesy of
+Wikipedia, naturally):</p>
+
+<ul>
+<li>Our base camp, Quito, is located at 9,350 feet above sea level.</li>
+<li>To start the ascent one must catch a gondola from Quito up the mountain
+another 3,000 or so feet to 12,943 feet.</li>
+<li>The summit of Pinchina is located at 15,696 feet above sea level: quite
+the feat for someone prone to altitude sickness.</li>
+</ul>
+
+
+<p><img src="http://rebeccasliter.com/images/pinchincha_grass.jpg" />
+<img src="http://rebeccasliter.com/images/pinchincha_flowers.jpg" />
+<img src="http://rebeccasliter.com/images/pinchincha_flower2.jpg" /></p>
+
+<p>The meadows, filled with scrubby alien plants seemingly better suited to
+a desert than a volcano slope, were absolutely the highlight of our
+hike. Craggy mountaintops piercing the clouds above our heads dwarved us
+for much of the walk. At the summit, after a scramble up said crags
+(actually hardened lava), we were rewarded with views of the volcano
+below.</p>
+
+<p><img src="http://rebeccasliter.com/images/pinchincha_volcano.jpg" /></p>
+
+<p>*<em>Fightin’ words, I know.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rails y Las Taquerías]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/09/02/rails-y-las-taquerias/"/>
+    <updated>2013-09-02T19:50:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/09/02/rails-y-las-taquerias</id>
+    <content type="html"><![CDATA[<p>I take tacos relatively seriously. Seriously enough that I&rsquo;ve organized multiple taco-themed parties in my lifetime.
+Let&rsquo;s be real, though: any food whose remnants are licked from your fingers requires a
+sense of humor.</p>
+
+<p>As part of our immersion here in Quito we&rsquo;re doing <a href="www.pechakucha.org">pecha kucha talks</a>, which consist of 20 slides, presented for 20 seconds each,
+resulting in a madcap 400-second talk on a topic of the presenter&rsquo;s choosing. I
+chose to explain the Rails MVC framework with a taquería analogy.</p>
+
+<p>This talk was originally given in Spanish, so I&rsquo;ve provided a Spanish
+transcript as well as a rough English translation below.</p>
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/25738957"
+width="427" height="356" frameborder="0" marginwidth="0"
+marginheight="0" scrolling="no" class="slideshare" allowfullscreen
+webkitallowfullscreen mozallowfullscreen> </iframe>
+
+
+<p></p>
+
+<!-- more -->
+
+
+<h2>En Español</h2>
+
+
+<p>Rails es una framework que tiene tres partes: el model, el view, y la
+controller.</p>
+
+<ul>
+<li> El model es el backend de la applicacíon. El model es el interface
+  entre el database y tambíen trabajo con el data.</li>
+<li> El view es el frontend de nuestra applicacíon. Es typicalemente en
+  HTML o un otro lenguaje para &#8220;templating,&#8221; y tambíen tiene un poco de
+ Ruby (usualemente los variables). Es la presentacíon de la
+applicacíon.</li>
+<li> Finalmente, tenemos la controller. La controller es el pegamento entre
+  el model y el view: el pasa el data desde el backend al frontend. Es
+importante saber que Rails tiene una regla para los partes de la
+applicacíon: model gordo, controller flaca.</li>
+</ul>
+
+
+<p>Empezamos en la bodega. La bodega tiene todos los ingredientes para
+nuestra taquería: los frijoles, el carne&hellip; Algun que trabajo en la
+taquería necesita algo para prepara una comida. Toma lo que quiere y
+deja la bodega. Pues, el puede preparar los ingredientes: el hace las
+salsas y prepara la carne. Todo de este es el trabajo del <strong>model</strong>.
+Recuerden, en Rails tenemos un model gordo. Es necesario hacer todo el
+trabajo con los ingredientes en el model.</p>
+
+<p>Pues&hellip; una persona recibe la comida. La comida es preparado y listo
+para servir. Esta persona no se importa como la comida fue preparar.
+Esta persona solo quiere que la comida es disponsible y lista para sus
+clientes. Tiene el trabajo para servir la persona que va a comer los
+tacos. Este trabajo es como un <strong>controller</strong> en Rails. Recuerden que
+Rails tiene una controller flaca: su trabajo es solamente dar el data al
+view.</p>
+
+<p>Y que buena es el view&mdash; mis tacos! Cuando estoy en un taquería, no me
+importa sobre la preparacíon de los tacos. No me importa sobre la
+receta. Si quiero cocinar los tacos, yo puedo cocinarlos en mi casa! No
+es la objetiva para comer en un restaurante. Solo que me importa es la
+comida, y si mi comida es buena. Es porque la experiencia del cliente es
+como el <strong>view</strong>. El cliente no se se importa del trabajo para cocinar los
+tacos, solamente si los tacos son buenos.</p>
+
+<p>Si añadas la preparacíon, la servir, y el producto final, tienes algo
+muy bueno&hellip; y un poco como el Rails MVC framework.</p>
+
+<h2>In English</h2>
+
+
+<p>The Ruby on Rails framework has three principal parts: the model, the
+view, and the controller. The model takes care of most of the work,
+interfacing with the database and modifying a lot of the data. The view,
+on the other hand, is the presentation layer: it only has a bit of Ruby
+(typically variables) but a lot of ERB to handle the way the app looks.
+The controller is the glue between the two: passing data from the
+database (from the model) to the page (the view).</p>
+
+<p>Let&rsquo;s start at the pantry of the restaurant. All of the food is
+contained there, and when a prep chef needs something, he or she goes
+into the pantry, takes what they need, and returns to the kitchen to
+prepare the food. The chef has the responsibility of chopping the meats,
+mixing the salsas.. this is analogous to the <strong>model</strong> in Rails. Rails has
+a convention for &ldquo;fat model, skinny controller,&rdquo; wherein much of the
+work should be done in the model before getting to the controller.</p>
+
+<p>By the time the food reaches the server, it has been plated. The salsas
+are lined up next to the tacos. The food is ready to go. All the server
+cares about is getting the food to the customer in a timely manner,
+without complaints. This is similar to the <strong>controller</strong> in Rails:
+passing data from the backend out to the front, without doing much work
+(remember, &ldquo;fat model, skinny controller&rdquo;).</p>
+
+<p>And, finally, the food makes its way to the customer. Much like the
+server, the customer has very little curiosity regarding the recipe, the
+preparation, or even how many more tomatoes are in stock: in fact, all
+the customer typically cares about is how the tacos look and taste. This
+is similar to Rails views, which hold very little Ruby and serve as the
+presentation layer.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hola]]></title>
+    <link href="http://rebeccasliter.com/blog/2013/08/18/hola/"/>
+    <updated>2013-08-18T14:38:00-05:00</updated>
+    <id>http://rebeccasliter.com/blog/2013/08/18/hola</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve been in Ecuador for about three weeks, in which time I&rsquo;ve
+helped plan our <a href="https://www.facebook.com/photo.php?fbid=637562259600702&amp;set=a.243430865680512.67637.117154494974817&amp;type=1&amp;theater">start-of-office</a> immersion program, delivered <a href="https://twitter.com/fmrtn/status/364099758173868032">a presentation</a> on software testing <em>en Español</em> and visited
+Mindo, a small town in the jungle about two hours outside of Quito.
+<img src="http://rebeccasliter.com/images/DSC01331_edited.jpg" /></p>
+
+<p>The content of this brand-new blog will likely touch on the
+above-mentioned subjects (that is, a thrilling mix of hiking and software), but for now I&rsquo;ll leave y&#8217;all with a photo of the
+park near my apartment, where I attempted my first-ever high-altitude run
+this past weekend.
+<img src="http://rebeccasliter.com/images/parque_carolina.png" /></p>
+]]></content>
+  </entry>
+  
+</feed>
