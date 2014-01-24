@@ -9,7 +9,7 @@ At the end of last year I summited my third volcano in Ecuador. Volcanic climbs 
 
 Chicken clay pot is a perennial favorite, a riff on the Slanted Door's own, much better, version. We've had to make some adjustments for a home kitchen far from Vietnam or any ethnic grocery store. Still, the combination of protein, sugar and carbohydrates is a sure winner after a long day climbing to the top of the world.  
 
-<img src="{{ root_url }}/images/guagua_pichincha.jpg" />
+<img src="{{ root_url }}/images/guagua.jpg" />
 
 <!-- more -->
 <strong>Chicken Clay Pot</strong> Adapted from the Slanted Door in San Francisco
