@@ -3,7 +3,7 @@ layout: post
 title: "A meal fit for a mountain climber"
 date: 2014-01-24 08:23
 comments: true
-categories: 
+categories: ['ecuador', 'travel', 'food']
 ---
 At the end of last year I summited my third volcano in Ecuador. Volcanic climbs here are the same every time: initial optimism followed by exhaustion as the grass disappears, giving way to slippery volcanic silt for the final ascent. The descent is a blur, punctuated only by conversation about what we'd like to eat once we're off the mountain.
 
