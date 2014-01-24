@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A meal fit for a climber of mountains"
+title: "A meal fit for a mountain climber"
 date: 2014-01-12 14:23
 comments: true
 categories: 
