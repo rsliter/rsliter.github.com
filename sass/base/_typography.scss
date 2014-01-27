@@ -133,6 +133,11 @@ article blockquote {
   }
 }
 
+.code {
+  font-family: courier;
+  margin: 5px 30px;
+}
+
 .pullquote-right:before,
 .pullquote-left:before {
   /* Reset metrics. */
