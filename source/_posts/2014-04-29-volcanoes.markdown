@@ -34,10 +34,8 @@ streaming down the side of the perfectly-conical mountain.
 From the safety of an adjacent mountain we caught a few explosions before the clouds began
 rolling in. Each was marked by the realization that I had no idea whether the volcano would erupt again that evening.
 
-Who knows whether I'll ever see anything like that again.
-
-So, this past year, in review: volcanoes, Spanish. The rare
+So, this past year, in review: volcanoes, Spanish. The 
 opportunity to watch an office grow from an idea to an operation
 running multiple projects in parallel. A slew of crazy
-experiences that I'm still trying to make sense of but that I'll
+experiences that I'm still trying to make sense of and that I'll
 surely look back on with disbelief a year from now.
