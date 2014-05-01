@@ -16,6 +16,8 @@ others and about how I, myself, have grown from the experience.
 
 On a personal level, however, when I consider the past year I will always think of one last thing: VOLCANOES.
 
+<!-- more -->
+
 This spring I spent a week backpacking around Guatemala with
 friends. We spent a night camping on the Pacaya volcano, poking sticks through the rocks below our feet to roast marshmallows on the molten liquid underneath us.
 
