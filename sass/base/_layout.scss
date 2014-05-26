@@ -113,12 +113,6 @@ aside.sidebar {
 
 .toggle-sidebar { &, .no-sidebar & { display: none; }}
 
-.slideshare {
-  padding: 0 60px;
-  border: none;
-  margin-bottom: 5px;
-}
-
 body.sidebar-footer {
   @media only screen and (min-width: 750px) {
     aside.sidebar{ @include collapse-sidebar; }
