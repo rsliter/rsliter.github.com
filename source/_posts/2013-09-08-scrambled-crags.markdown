@@ -15,8 +15,6 @@ be in an altered frame of mind to consider the Appalachians high in
 the mountains\*. I have to tell y’all: because of the altitude, over the last month I tried no
 less than three times to climb the Pichincha volcano outside of Quito.
 
-<!-- more -->
-
 <img src="{{ root_url }}/images/pinchincha_path.jpg" />
 
 Why three tries? This is what I know about the altitude here (courtesy of

@@ -19,8 +19,6 @@ Do I have a song in my head? Can I fumble through its translation, however rudim
 
 <img src="{{ root_url }}/images/rose_gram" />
 
-<!--more-->
-
 <strong>Google translate is your BFF</strong>
 All those nerdy songs I was translating in my head? That time I didn't
 know how to say *eggplant* in Spanish? I looked it up on Google

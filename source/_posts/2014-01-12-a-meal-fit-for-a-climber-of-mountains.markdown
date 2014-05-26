@@ -11,7 +11,6 @@ Chicken clay pot is a perennial favorite, a riff on the Slanted Door's own, much
 
 <img src="{{ root_url }}/images/guagua.jpg" />
 
-<!-- more -->
 <strong>Chicken Clay Pot</strong> Adapted from the Slanted Door in San Francisco
 <br/>~ 1 pound of chicken breast, cut into pieces
 <br/>1 clove garlic, minced

@@ -21,7 +21,6 @@ width="427" height="356" frameborder="0" marginwidth="0"
 marginheight="0" scrolling="no" class="slideshare" allowfullscreen
 webkitallowfullscreen mozallowfullscreen> </iframe> 
 
-<!-- more -->
 <h2>En Español</h2>
 Rails es una framework que tiene tres partes: el model, el view, y la
 controller.

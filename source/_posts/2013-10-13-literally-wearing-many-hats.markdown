@@ -19,8 +19,6 @@ home-cooking impractical: it didn't feel right to do a huge grocery
 order on a Friday evening knowing: A) that I'd be flying Sunday afternoon, and B)
 there was a Thai restaurant on the first floor of my apartment. Naturally, I elected to eat my way through the neighborhood's Yelp rankings, occasionally seeking out [further-flung restaurants](http://www.chicagoreader.com/chicago/hipster-history-of-gentrification-bohemians-logan-square/Content?oid=11117198).
 
-<!-- more -->
-
 So, we're living here, in the same place, and in the same apartment: a
 novelty for the two of us. We're taking advantage of this and
 cooking pretty frequently. The funny thing about this? Turns out that we cook
