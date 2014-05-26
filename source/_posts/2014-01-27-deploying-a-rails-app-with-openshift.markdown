@@ -19,7 +19,9 @@ like this:
 <img src="{{ root_url }}/images/openshift_passenger_error.jpg" />
 
 With this error:
-<p class="code"> /opt/rh/ruby193/root/usr/share/gems/gems/passenger-3.0.17/helper-scripts/prespawn:105:in `initialize': Connection refused - connect(2) (Errno::ECONNREFUSED)</p>
+```
+/opt/rh/ruby193/root/usr/share/gems/gems/passenger-3.0.17/helper-scripts/prespawn:105:in `initialize': Connection refused - connect(2) (Errno::ECONNREFUSED)</p>
+```
 
 That's because OpenShift requires some additional files to be included
 in your application before it can be run. I needed to add a directory to
