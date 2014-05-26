@@ -204,8 +204,12 @@ article {
 /* Code blocks */
 highlight {
   max-width: 100%;
+  .code {
+    max-width: 50%;
+  }
 }
 pre {
+  max-width: 50%;
 	position: relative;
 	border: 1px solid $light-gray;
 	@include border-radius(4px);
