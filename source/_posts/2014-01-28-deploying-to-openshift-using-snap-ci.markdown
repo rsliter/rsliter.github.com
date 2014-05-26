@@ -16,14 +16,14 @@ Deploying to OpenShift was pretty simple as well. We created a build stage in Sn
 
 By default OpenShift creates a copy of your existing Git repository. Each push to the new OpenShift repository triggers a deploy. In theory, this means that all we need to do is force a push to the OpenShift repository every time we want to deploy:
 
-``` linenos: false
+```
 $ git push -f myopenshift.git
 ```
 
 However, access to OpenShift is done via SSH, which means that pushing looks
 more like this:
 
-``` linenos: false
+```
 $ git push -f ssh://myopenshift.git
 ```
 
@@ -32,7 +32,7 @@ to have our SSH key present when pushing, we first created an
 environment variable in Snap called OPENSHIFT_SSH, which we echoed to a
 file in the repository:
 
-``` linenos: false
+```
 $ echo "$OPENSHIFT_SSH" > ./ssh_pk_file
 $ chmod 600 ssh_pk_file
 ```
@@ -42,7 +42,7 @@ We also had to change the permissions of the private key file.
 Finally, we had a script that allowed us to specify the SSH key to use for
 pushing to OpenShift:
 
-``` linenos: false
+```
 $ ./script/my_git.sh -i ssh_pk_file push -f ssh://myopenshift.git</div>
 ```
 
@@ -51,7 +51,7 @@ We based our script off the one found [here](http://alvinabad.wordpress.com/2013
 Our final list of tasks to execute for our integration build step
 looks like this:
 
-``` linenos: false
+```
 $ echo "$OPENSHIFT_SSH" > ./ssh_pk_file 
 $ chmod 600 ssh_pk_file
 $ ./script/my_git.sh -i ssh_pk_file push -f ssh://myopenshift.git
