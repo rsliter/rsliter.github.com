@@ -16,7 +16,7 @@ Deploying to OpenShift was pretty simple as well. We created a build stage in Sn
 
 By default OpenShift creates a copy of your existing Git repository. Each push to the new OpenShift repository triggers a deploy. In theory, this means that all we need to do is force a push to the OpenShift repository every time we want to deploy:
 
-```
+``` bash linenos:false
 $ git push -f myopenshift.git
 ```
 
@@ -43,7 +43,7 @@ Finally, we had a script that allowed us to specify the SSH key to use for
 pushing to OpenShift:
 
 ```
-$ ./script/my_git.sh -i ssh_pk_file push -f ssh://myopenshift.git</div>
+$ ./script/my_git.sh -i ssh_pk_file push -f ssh://myopenshift.git
 ```
 
 We based our script off the one found [here](http://alvinabad.wordpress.com/2013/03/23/how-to-specify-an-ssh-key-file-with-the-git-command/). All it does is take in a git command with a parameter (-i) that allows you to specify which SSH key you'd like to use.
