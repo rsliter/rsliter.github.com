@@ -16,7 +16,7 @@ Deploying to OpenShift was pretty simple as well. We created a build stage in Sn
 
 By default OpenShift creates a copy of your existing Git repository. Each push to the new OpenShift repository triggers a deploy. In theory, this means that all we need to do is force a push to the OpenShift repository every time we want to deploy:
 
-``` bash linenos:false
+```
 $ git push -f myopenshift.git
 ```
 
