@@ -20,7 +20,7 @@ By default OpenShift creates a copy of your existing Git repository. Each push t
 $ git push -f myopenshift.git
 ```
 
-However, access to OpenShift is done via SSH, which means that pushing looks
+However, access to OpenShift is via SSH, which means that pushing looks
 more like this:
 
 ```

@@ -6,7 +6,7 @@ comments: true
 categories: ['team dynamics']
 ---
 
-When the ThoughtWorks office in Quito first opened I organized a monthlong immersion for
+When the ThoughtWorks Quito office first opened I organized a monthlong immersion for
 our first ten new hires. We were so small that the entire office would work through training materials during
 the day and head out to dinner afterwards.
 
@@ -20,7 +20,7 @@ You have to figure out what behaviors people need to change in order to achieve 
 
 {% endblockquote %}
 
-Up to that point I had only noticed that people were 
+Up to that point I had only noticed that my colleagues were
 interacting mostly with their project team and not the office as a
 whole. Rather than addressing the perceived issue of office communication, I focused on the fact that people within the office weren't chatting with each other during the workday. I decided to tweak our schedules.
 
