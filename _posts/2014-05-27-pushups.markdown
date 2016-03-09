@@ -1,0 +1,33 @@
+---
+layout: post
+title: "The Hundred Pushup Challenge"
+date: 2014-05-27 11:13
+comments: true
+categories: ['team dynamics']
+---
+
+When the ThoughtWorks Quito office first opened I organized a monthlong immersion for
+our first ten new hires. We were so small that the entire office would work through training materials during
+the day and head out to dinner afterwards.
+
+After that month, as project work started and we hired more people, I noticed that there was a high amount of interaction within project teams but that communication across the office was infrequent. Project teams went to lunch at the same time; after-hours events were attended by groups from the same project. I was pleased that individual project teams were forming and wanted to ensure that the office was doing the same.
+
+Around the same time I read
+[Influencer](http://www.amazon.com/Influencer-Science-Leading-Change-Second-ebook/dp/B00BPO7710) and was interested in the idea that a small but deliberate change could have a disproportionately larger effect on someone's behavior:
+
+> You have to figure out what behaviors people need to change in order to achieve these results. Influencers are universally firm on this point. They don’t create methods for changing behavior until they’ve carefully identified the exact behaviors they want to change. This can sound like an enormous task. On any given day, how many behaviors does one enact? Thousands? Fortunately, when it comes to creating change, you don’t have to identify thousands of behaviors. Not even a hundred or a dozen. Typically one or two vital behaviors, well executed, will yield a big difference. This is true because with almost any result you’re trying to achieve, there are moments of disproportionate influence.
+
+_Joseph Grenny; Kerry Patterson; David Maxfield; Ron McMillan; Al Switzler, Influencer: The New Science of Leading Change_
+
+Up to that point I had only noticed that my colleagues were
+interacting mostly with their project team and not the office as a
+whole. Rather than addressing the perceived issue of office communication, I focused on the fact that people within the office weren't chatting with each other during the workday. I decided to tweak our schedules.
+
+I put a thrice-weekly 15-minute invitation on everyone's
+calendar for the [Hundred Pushup Challenge](http://hundredpushups.com/).
+Based on the idea of "vital behaviors," any short activity that forced
+members of the office to mingle during the day would have worked, though
+I was inclined to choose something that forced everyone away from their laptops.
+
+Each Monday, Wednesday and Friday at 11:45 am sharp, I rallied my colleagues to participate in the pushup challenge. We needed to redo some exercises, and my upper-body strength left something to be desired, but it didn't really matter. We had convinced most of the office to meet multiple times a week; the exercise was so well-received that clients have participated and
+we've since moved on to a new office-wide challenge.

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Hola"
+date: 2013-08-18 14:38
+comments: true
+categories: ['ecuador', 'tech', 'travel']
+---
+
+I've been in Ecuador for about three weeks, in which time I've 
+helped plan our [start-of-office](https://www.facebook.com/photo.php?fbid=637562259600702&set=a.243430865680512.67637.117154494974817&type=1&theater) immersion program, delivered [a presentation](https://twitter.com/fmrtn/status/364099758173868032) on software testing *en Español* and visited
+Mindo, a small town in the jungle about two hours outside of Quito.
+
+<img src="{{ root_url }}/images/DSC01331_edited.jpg" />
+
+The content of this brand-new blog will likely touch on the
+above-mentioned subjects (that is, a thrilling mix of hiking and software), but for now I'll leave y'all with a photo of the
+park near my apartment, where I attempted my first-ever high-altitude run
+this past weekend. 
+
+<img src="{{ root_url }}/images/parque_carolina.png" />
