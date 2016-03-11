@@ -1,20 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       Rebecca Sliter
+author:      Rebecca Sliter
+description: "My blog"
+url: "http://rebeccasliter.com"
+baseurl: ""
 date_format: "%b %-d, %Y"
-
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics:
-google_tag_manager:
-# Bing services
-bing_verification:
 
 # Optional features
 animated:             false
@@ -28,12 +18,6 @@ extended_fonts: false
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname:
-
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
-facebook_comments_number: 10
 
 # Social icons
 github_username:
@@ -109,3 +93,5 @@ gems:
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
 exclude: [vendor]
+
+excerpt_separator: <!--more-->

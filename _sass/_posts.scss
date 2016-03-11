@@ -5,11 +5,9 @@
 
 .posts .post {
   margin-bottom: 0.75em;
-  border-bottom: thin solid #f3f3f3;
 }
 
 .posts .post:last-child {
-  border-bottom: none;
   margin-bottom: .375em;
   padding-bottom: 0;
 }
@@ -39,10 +37,14 @@
   font-weight: 300;
   margin: 0;
   padding: .25em 0;
-  color: #7a7a7a;
+  color: $red;
   font-style: italic;
 }
 
 .related-post-title {
   border-bottom: thin solid #f3f3f3;
+}
+
+.read-more-link {
+  float: right;
 }
