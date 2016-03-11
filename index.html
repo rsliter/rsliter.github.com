@@ -16,6 +16,9 @@ layout: default
             {% else %}
               {{ post.excerpt }}
             {% endif %}
+            {% if post.excerpt != post.content %}
+              <p><a class="read-more-link" href="{{ post.url }}" role="button">Read more </a></p>
+            {% endif %}
           </p>
         </div>
       {% endfor %}

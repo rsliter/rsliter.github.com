@@ -12,6 +12,8 @@ I'd mention learning Spanish. I'd talk about living here in Quito and
 opening and helping lead an office. About coaching
 others and about how I, myself, have grown from the experience.
 
+<!--more-->
+
 <img src="{{ root_url }}/images/atitlan.jpg" />
 
 On a personal level, however, when I consider the past year I will always think of one more thing: VOLCANOES.

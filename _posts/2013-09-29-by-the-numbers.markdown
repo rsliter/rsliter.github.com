@@ -7,6 +7,8 @@ categories: ['quito', 'stomach bug from hell', 'churches', 'ecuador']
 ---
 <img src="{{ root_url }}/images/flowers.jpg" />
 
+<!--more-->
+
 <strong>1</strong> Morning spent cycling on the runway of Quito's old airport.
 
 <strong>1</strong> Church (Catholic), ascended by foot all the way to the bell tower.

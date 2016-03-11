@@ -16,6 +16,8 @@ chose to explain the Rails MVC framework with a taquería analogy.
 This talk was originally given in Spanish, so I've provided a Spanish
 transcript as well as a rough English translation below.
 
+<!--more-->
+
 <iframe src="http://www.slideshare.net/slideshow/embed_code/25738957"
 width="427" height="356" frameborder="0" marginwidth="0"
 marginheight="0" scrolling="no" class="slideshare" allowfullscreen

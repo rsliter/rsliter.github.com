@@ -14,6 +14,8 @@ hosted code on GitHub.
 
 <img src="{{ root_url }}/images/openshift_create.jpg" />
 
+<!--more-->
+
 Unfortunately, if you do that, you'll probably get a stack trace that looks
 like this:
 <img src="{{ root_url }}/images/openshift_passenger_error.jpg" />

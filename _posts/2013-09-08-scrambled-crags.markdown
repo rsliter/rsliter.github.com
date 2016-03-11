@@ -17,6 +17,8 @@ less than three times to climb the Pichincha volcano outside of Quito.
 
 <img src="{{ root_url }}/images/pinchincha_path.jpg" />
 
+<!--more-->
+
 Why three tries? This is what I know about the altitude here (courtesy of
 Wikipedia, naturally):
 <ul>

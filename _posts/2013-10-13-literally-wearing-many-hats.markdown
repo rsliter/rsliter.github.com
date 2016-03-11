@@ -13,6 +13,8 @@ not DIE OF FROSTBITE.
 
 <img src="{{ root_url }}/images/quilotoa_hats.jpg" />
 
+<!--more-->
+
 Speaking of acclimation, or lack thereof, a funny thing's been happening
 lately. In the States, travel during the workweek rendered
 home-cooking impractical: it didn't feel right to do a huge grocery

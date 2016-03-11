@@ -11,6 +11,8 @@ A few weeks ago I started working on a project with an existing code base. On my
 
 Two days later I swapped pairs to work on a feature. My new pair's workflow referenced completely different build commands and git convenience scripts.
 
+<!--more-->
+
 When I asked my pair about the difference between two similar scripts he wasn't sure. Just like my first pair, he had a specific development workflow, and the two hadn't worked together recently.
 
 Lack of clarity amongst team members adds up to something larger.  Indecision between which git script to use is just one more thing a developer needs to think about during her day. Project members end up dedicating precious mental cycles to minutiae, resulting in cognitive overload.

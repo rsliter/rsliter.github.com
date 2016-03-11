@@ -7,6 +7,8 @@ categories: ['ecuador', 'travel', 'food']
 ---
 At the end of last year I summited my third volcano in Ecuador. Volcanic climbs here are the same every time: initial optimism followed by exhaustion as the grass disappears, giving way to slippery volcanic silt for the final ascent. The descent is a blur, punctuated only by conversation about what we'd like to eat once we're off the mountain.
 
+<!--more-->
+
 Chicken clay pot is a perennial favorite, a riff on the Slanted Door's own, much better, version. We've had to make some adjustments for a home kitchen far from Vietnam or any ethnic grocery store. Still, the combination of protein, sugar and carbohydrates is a sure winner after a long day climbing to the top of the world.  
 
 <img src="{{ root_url }}/images/guagua.jpg" />

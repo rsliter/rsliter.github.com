@@ -7,6 +7,8 @@ categories:  ['learning', 'spanish', 'ecuador']
 ---
 When I moved to Ecuador a few months ago I needed to learn Spanish quickly. Although being surrounded by the language has been a great help, many of the tricks I used to learn could also be used to mimic the experience of immersion. 
 
+<!--more-->
+
 <strong>Start here: Duolingo</strong>
 I was initially far too intimidated to practice speaking with native speakers. My accent was terrible! My verb conjugations were a mess! To gain confidence I can't recommend [Duolingo](http://www.duolingo.com/) highly enough, despite criticisms of its nonsensical phrases seemingly lacking real-world application\*. The app's combination of drilling and silliness helped me overcome my fear of speaking Spanish with others.
 

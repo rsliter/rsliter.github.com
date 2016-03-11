@@ -10,6 +10,8 @@ far, we love it. Another tool we're using is [Snap-CI](snap-ci.com), which has i
 
 <img src="{{ root_url }}/images/snap_pipeline.png" />
 
+<!--more-->
+
 Deploying to OpenShift was pretty simple as well. We created a build stage in Snap-CI and added some tasks to the new stage:
 
 <img src="{{ root_url }}/images/snap_new_stage.png" />
