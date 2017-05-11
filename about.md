@@ -11,6 +11,6 @@ In the past I worked at Kickstarter as an engineer and manager on their Growth t
 
 I worked as a software developer consultant at ThoughtWorks, where I helped organizations large and small build custom software. While there, I spent some time in Quito, Ecuador, helping grow a new office for the company. I built mentoring programs for new employees (both for lateral hires and [those new to software development]({{ root_url}}/tacos/rails/talks/pecha%20kucha/tech/2013/09/02/rails-y-las-taquerias/)) and [helped grow the tech community there]({{ root_url}}/tech/talks/scala/quito%20lambda/2013/09/27/programacion-funcional-con-scala/).
 
-I've also got a cat named Wendy Davis:
+I've also got a cat named Wendy Davis, and this great portrait of her (by [ClockworkArtShop](https://www.etsy.com/shop/ClockworkArtShop)):
 
 <img style="display: block; margin: auto; max-width: 300px" src="{{ root_url }}/images/wendy.jpg" />
